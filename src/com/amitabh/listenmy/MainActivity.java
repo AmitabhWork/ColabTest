@@ -27,7 +27,7 @@ import android.widget.ImageView;
 import android.widget.SeekBar;
 import android.widget.ToggleButton;
 
-//Amitabh Sarkar
+//AmitabhSSSSSS
 public class MainActivity extends Activity implements OnClickListener,
 		OnCheckedChangeListener {
 
