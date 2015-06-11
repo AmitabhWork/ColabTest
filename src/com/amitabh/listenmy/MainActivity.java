@@ -55,6 +55,7 @@ public class MainActivity extends Activity implements OnClickListener,
 	//bingo
 		
 		//what if this dont s
+		//lets see how you get this
 		next.setOnClickListener(this);
 		previous.setOnClickListener(this);
 		playPause.setOnCheckedChangeListener(this);
