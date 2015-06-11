@@ -26,7 +26,9 @@ import android.widget.CompoundButton.OnCheckedChangeListener;
 import android.widget.ImageView;
 import android.widget.SeekBar;
 import android.widget.ToggleButton;
-
+//kjfhasdjkg
+//asjfaskldfjklasfj
+//aklfklasdjfl
 public class MainActivity extends Activity implements OnClickListener,
 		OnCheckedChangeListener {
 
