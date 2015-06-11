@@ -52,6 +52,7 @@ public class MainActivity extends Activity implements OnClickListener,
 		
 		//new comment by Ho HO HO
 	//	I am fatching
+	//bingo
 		next.setOnClickListener(this);
 		previous.setOnClickListener(this);
 		playPause.setOnCheckedChangeListener(this);
